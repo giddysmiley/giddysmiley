@@ -1,36 +1,36 @@
-giddy/ciso/smiley skins i have:
-(i call him giddy)
+Smiley skins i have:
 
-• normal giddy
 
-• normal giddy but with a different name
+• normal smiley
 
-• doctor giddy
+• normal smiley but with a different name
 
-• giddy telling his name aggressively
+• doctor smiley
 
-• accurate giddy
+• smiley telling its name aggressively
 
-• accurate giddy #2
+• accurate smiley
 
-• jammin giddy
+• accurate smiley #2
 
-• pony giddy
+• jammin smiley
 
-• mart giddy
+• pony smiley
 
-• jolly giddy
+• mart smiley
 
-• cute giddy
+• jolly smiley
 
-• giddy with blood stains
+• cute smiley
 
-• EVIL giddy (its just him with reversed colors)
+• smiley with blood stains
 
-• giddy is an idiot
+• EVIL smiley (its just them with reversed colors)
 
-• new totally cool real giddy class
+• smiley is an idiot
 
-• tv head giddy
+• new totally cool real smiley class
+
+• tv head smiley
 
 <img width="250" height="249" alt="1000077758" src="https://github.com/user-attachments/assets/790e17cc-b348-49ed-9dad-d8897f65f66b" />
